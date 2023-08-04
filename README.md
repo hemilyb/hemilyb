@@ -1,7 +1,8 @@
 ## Oii! Eu sou a Hemily
 
 - 🐛 Começando na programação;
-- 💬 Você também pode me encontrar no Instagram com @itshemyy.
+- 🌱 20 anos.
+- 💬 Buscando desenvolver meu conhecimento em linguagens e Banco de Dados.
 
 <div>
   <a href="https://github.com/hemilyb">
