@@ -1,7 +1,6 @@
 ## Oii! Eu sou a Hemily
 
-- 🌱 Começando na programação;
-- 🐛 Estudando JavaScript;
+- 🐛 Começando na programação;
 - 💬 Você também pode me encontrar no Instagram com @itshemyy.
 
 <div>
