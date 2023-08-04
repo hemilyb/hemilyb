@@ -2,7 +2,7 @@
 
 - 🐛 Começando na programação;
 - 🌱 20 anos.
-- 💬 Buscando desenvolver meu conhecimento em linguagens e Banco de Dados.
+- 💬 Busco aprender linguagens e Banco de Dados.
 
 <div>
   <a href="https://github.com/hemilyb">
