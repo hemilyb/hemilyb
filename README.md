@@ -1,4 +1,4 @@
-## Hi! I'm Hemy
+## Hi! I'm Hemy 👋
 
 - 👩‍💻 Aspiring Developer;
 - 🌱 21 years old;
