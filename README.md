@@ -1,6 +1,5 @@
 ## Hi! I'm Hemy 👋
 
-- 👩‍💻 Aspiring Developer;
 - 🌱 21 years old;
 - 🌐 Tech enthusiast on a learning journey;
 <div>
