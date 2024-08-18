@@ -4,7 +4,7 @@ My name is Hemily and I am a front-end developer from Curitiba, Paraná. I love 
 
 
 <a href="#">
-<img src="https://github.com/user-attachments/assets/2d6de81b-626d-4770-8298-072f8a077453" title="hello" width="350" height="243" align="right" alt="Hello, there!">
+<img src="https://github.com/user-attachments/assets/2d6de81b-626d-4770-8298-072f8a077453" title="hello" width="350" height="350" align="right" alt="Hello, there!">
 </a>
 
 
