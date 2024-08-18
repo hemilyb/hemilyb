@@ -3,9 +3,7 @@
 My name is Hemily and I am a front-end developer from Curitiba, Paraná. I love programming and my goal is to create websites and apps that are not only useful but also look amazing on every device.
 
 
-<a href="#">
-<img src="https://tenor.com/view/mochi-mochi-hello-white-mochi-mochi-mochi-mochi-hello-hello-wave-gif-15143463" title="hello" align="right" alt="Hello, there!">
-</a>
+<div class="tenor-gif-embed" data-postid="15143463" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mochi-mochi-hello-white-mochi-mochi-mochi-mochi-hello-hello-wave-gif-15143463">Mochi Mochi Hello White Hello Sticker</a>from <a href="https://tenor.com/search/mochi+mochi+hello+white-stickers">Mochi Mochi Hello White Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 ### Here's some of the stuff I like to use
