@@ -1,6 +1,6 @@
 ## Hello, there ✌
 
-My name is Hemily and I am a front-end developer from Curitiba, Paraná. I love programming and my goal is to create websites and apps that are not only useful but also look amazing on every device.
+I love programming and my goal is to create websites and apps that are not only useful but also look amazing on every device.
 
 
 <a href="#">
